@@ -1,20 +1,29 @@
 html,body {
 height:100%;
-background:white;
+background:red;
 }
 header {
 display:block;
 background:#d7e0e9;
 padding:10px 0px;
+background-color: yellow;
 }
 section {
-width: 79%;
+width: 100%;
 float: left;
 overflow: auto;
 padding-bottom: 60px;
 padding-top:30px;
 color: black;
+text-align: center;
+background-color: yellow;
 }
+
+img{
+    display:block;
+    margin: 0 auto;
+}
+
 footer {
 position: relative;
 margin-top: -50px;
@@ -23,5 +32,6 @@ padding:5px 0px;
 clear: both;
 background: #d7e0e9;
 text-align: center;
-color: black;
+color: Green;
+background-color: Yellow;
 }
