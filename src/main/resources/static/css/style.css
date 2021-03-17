@@ -5,8 +5,11 @@ background:red;
 header {
 display:block;
 background:#d7e0e9;
-padding:10px 0px;
-background-color: yellow;
+
+padding:10px 10px;
+background-color: red;
+color: blue;
+
 }
 section {
 width: 100%;
@@ -32,6 +35,8 @@ padding:5px 0px;
 clear: both;
 background: #d7e0e9;
 text-align: center;
-color: Green;
-background-color: Yellow;
+
+color: white;
+background-color: orange;
+
 }
